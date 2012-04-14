@@ -2,9 +2,9 @@ Quick template for Scalatron bot projects: see http://scalatron.wordpress.com/
 
 How to do stuff:
 
-Build
+Build (produces target/scala-2.9.0-1/ScalatronBot.jar)
 
-    ./sbt package # produces target/scala-2.9.1/scalatron-bot_2.9.1-0.1.jar
+    ./sbt package 
 
 Continuous build (handy to leave running while you edit)
 
